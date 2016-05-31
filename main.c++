@@ -1,3 +1,16 @@
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>**<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+/*
+>>>>>>>>>> Advanced Data Structure And Algorithms <<<<<<<<<<<<<<<
+>>>>>>>>>>                                        <<<<<<<<<<<<<<<
+>>>>>>>>>>                                        <<<<<<<<<<<<<<<
+>>>>>>>>>> 	    Priyanka Mahawar              <<<<<<<<<<<<<<<
+>>>>>>>>>>               B13131                   <<<<<<<<<<<<<<<
+		           
+
+*/
+/* File -> employee2.txt */
+        /* Linear Probing , Chaining , Double hashing, Binary Search Tree, AVL tree */
+
 #include <iostream>
 #include<string.h>
 #include<string>
